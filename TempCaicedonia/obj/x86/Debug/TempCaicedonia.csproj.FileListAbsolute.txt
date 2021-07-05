@@ -1,0 +1,15 @@
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Debug\TempCaicedonia.exe.config
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Debug\TempCaicedonia.exe
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Debug\TempCaicedonia.pdb
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Debug\RestSharp.dll
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Debug\RestSharp.xml
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Debug\TempCaicedonia.Form1.resources
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Debug\TempCaicedonia.Properties.Resources.resources
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Debug\TempCaicedonia.csproj.GenerateResource.cache
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Debug\TempCaicedonia.csproj.CoreCompileInputs.cache
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Debug\TempCaicedonia.csproj.CopyComplete
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Debug\TempCaicedonia.exe
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Debug\TempCaicedonia.pdb

@@ -1,0 +1,34 @@
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\Debug\TempCaicedonia.exe.config
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\Debug\TempCaicedonia.exe
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\Debug\TempCaicedonia.pdb
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\Debug\RestSharp.dll
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\Debug\RestSharp.xml
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\Debug\TempCaicedonia.Form1.resources
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\Debug\TempCaicedonia.Properties.Resources.resources
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\Debug\TempCaicedonia.csproj.GenerateResource.cache
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\Debug\TempCaicedonia.csproj.CopyComplete
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\Debug\TempCaicedonia.exe
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\Debug\TempCaicedonia.pdb
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\Debug\TempCaicedonia.csprojAssemblyReference.cache
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\Debug\TempCaicedonia.Form2.resources
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\Debug\TempCaicedonia.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\obj\Debug\TempCaicedonia.csprojAssemblyReference.cache
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\obj\Debug\TempCaicedonia.Form1.resources
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\obj\Debug\TempCaicedonia.Form2.resources
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\obj\Debug\TempCaicedonia.Properties.Resources.resources
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\obj\Debug\TempCaicedonia.csproj.GenerateResource.cache
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\obj\Debug\TempCaicedonia.exe
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\obj\Debug\TempCaicedonia.pdb
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\bin\Debug\TempCaicedonia.exe.config
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\bin\Debug\TempCaicedonia.exe
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\bin\Debug\TempCaicedonia.pdb
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\bin\Debug\RestSharp.dll
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\bin\Debug\RestSharp.xml
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\obj\Debug\TempCaicedonia.csproj.CopyComplete
+D:\Proyectos Visual Studio\HMI general\TempCaicedonia\obj\Debug\TempCaicedonia.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Release\TempCaicedonia.exe.config
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Release\TempCaicedonia.exe
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Release\TempCaicedonia.pdb
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Release\RestSharp.dll
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\bin\x86\Release\RestSharp.xml
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Release\TempCaicedonia.csprojAssemblyReference.cache
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Release\TempCaicedonia.Form1.resources
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Release\TempCaicedonia.Form2.resources
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Release\TempCaicedonia.Properties.Resources.resources
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Release\TempCaicedonia.csproj.GenerateResource.cache
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Release\TempCaicedonia.csproj.CopyComplete
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Release\TempCaicedonia.exe
+C:\Users\PICAIO\Desktop\TempCaicedonia\TempCaicedonia\obj\x86\Release\TempCaicedonia.pdb
